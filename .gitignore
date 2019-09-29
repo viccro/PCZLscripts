@@ -1,0 +1,5 @@
+Sheets/
+venv/
+output*
+*.pyc
+.idea/
